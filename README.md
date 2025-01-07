@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first "Hello World!" program and forgot the semicolon.<br>📚 I'm currently learning advanced React and data structures.<br>🎯 Goals: Land an exciting internship.<br>🎲 Fun fact: I still Google how to center a div, no shame!</p>
+<p align="left">✨ Creating bugs since I wrote my first "Hello World!" program and forgot the semicolon.<br>📚 I'm currently learning Node JS.<br>🎯 Goals: Land an exciting internship.<br>🎲 Fun fact: I still Google how to center a div, no shame!</p>
 
 ###
 
